@@ -46,5 +46,7 @@
 		"$HOME/.config/nvim/plugged/vim-snippets/UltiSnips/",
 		"$HOME/.config/nvim/Ultisnips/"
 	],
-	"snippets.textmateSnippetsRoots": []
+	"snippets.textmateSnippetsRoots": [
+		"$HOME/.config/nvim/vscode/"
+	]
 }
